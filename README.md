@@ -11,3 +11,4 @@ https://github.com/antimodular/nkk_lcd_smartswitch
 
 https://github.com/antimodular/nkk_lcd_smartswitch/blob/master/_1984_15/NKK_routines.ino
 
+![](art/dev.jpg)
